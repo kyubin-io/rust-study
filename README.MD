@@ -11,3 +11,5 @@
   cd src
   rustc main.rs
   exe. = exacutable
+  rustc => c is 'compiler'
+  ./ = current directory
