@@ -13,3 +13,5 @@
   exe. = exacutable
   rustc => c is 'compiler'
   ./ = current directory
+
+"file main"
