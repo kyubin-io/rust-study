@@ -15,3 +15,5 @@
   ./ = current directory
 
 "file main"
+
+rust format == rustfmt
