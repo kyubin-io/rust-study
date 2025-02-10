@@ -18,3 +18,5 @@
 
 rust format == rustfmt
 cargo fmt
+
+cargo build
